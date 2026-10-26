@@ -1,5 +1,7 @@
 # Melee Start Attack
 
+**Author:** Babuni.dev
+
 One World of Warcraft **1.12.1 (Vanilla)** addon for Paladins, Warriors, and Shamans.
 
 It starts normal melee auto-attack when you press a supported action-bar button or macro against a living hostile target—even when the action cannot be used because it is on cooldown or you lack mana/rage.
