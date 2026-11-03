@@ -1,6 +1,6 @@
 # MeleeStartAttack — AI/developer instructions
 
-**Project creator and decision authority:** Babuni.dev.
+**Human creative and decision-maker:** Babuni.
 
 ## Preserve the authored behavior
 
@@ -19,12 +19,16 @@ Read `MeleeStartAttack.lua`, the TOC, README, concept, architecture, decisions a
 - Learned records are saved **by class**, not separately by character. Version 1.1.2 `customStartIcons` is migrated into start records with legacy placeholder names.
 - Automatic `enabled` is **true on every file load** and not saved. Manual start/stop commands run regardless of enabled flag.
 - Learning needs a spellbook name and icon; unidentified macro icons may leave learning armed.
-- No LICENSE file exists. Do not add a license or imply permissions without the creator's explicit choice.
+- No LICENSE file exists. Do not add a license or imply permissions without the creative's explicit choice.
 
 ## Record each material change
 
-For implementation or major discussion, preserve the creator's aim and constraints, AI options and technical contributions, iteration/corrections, what Babuni.dev accepted or deferred, exact changed paths/commits, and test outcomes with actual client versions.
+For implementation or major discussion, preserve the creative's aim and constraints, AI options and technical contributions, iteration/corrections, what Babuni accepted or deferred, exact changed paths/commits, and test outcomes with actual client versions.
 
 Update README, CONCEPT, ROADMAP, CHANGELOG, AGENTS, docs/DEVLOG, docs/DECISIONS, docs/DESIGN, docs/ARCHITECTURE, docs/CONTENT and docs/AI_COLLABORATION as relevant. No AI proposal is approved simply because it appears in roadmap.
 
 Do not publish raw private conversations, game account data, credentials or unrelated player information. This 2026-10-26 pass changes documentation only.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
