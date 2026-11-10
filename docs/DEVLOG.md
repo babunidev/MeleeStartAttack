@@ -1,6 +1,6 @@
-# MeleeStartAttack — narrative development journal
+# MeleeStartAttack — development journal
 
-**Project creator and creative director:** Babuni.dev  
+**Creative:** Babuni  
 **Retrospective compiled:** October 26, 2026 from current Lua/TOC/README and dated Git diffs. This is **not** a verbatim restoration of earlier chats; motivations without direct evidence are identified as interpretations.
 
 ## A small Warrior idea becomes a family of interactions
