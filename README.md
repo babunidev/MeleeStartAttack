@@ -88,7 +88,7 @@ No other preferences are saved in the source (in particular, enabled/disabled st
 - Stop/start logic is separate from spell success, mana, rage, GCD and cooldown rules.
 - Global function wrappers can conflict with other addons wrapping the same functions, including the related WarriorStartAttack addon.
 - True multilingual compatibility was not independently tested; it is the **icon-based design goal**.
-- This repo has **no LICENSE file**. Do not assume an open-source license or add one without Babuni.dev's decision.
+- Original software is now licensed under [MIT](LICENSE), by Babuni's explicit decision of 13 November 2026.
 
 The [roadmap](ROADMAP.md) gives a reproducible target-client test matrix. Everything above describes current code, **not proven gameplay performance**.
 
