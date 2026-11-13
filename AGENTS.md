@@ -19,7 +19,7 @@ Read `MeleeStartAttack.lua`, the TOC, README, concept, architecture, decisions a
 - Learned records are saved **by class**, not separately by character. Version 1.1.2 `customStartIcons` is migrated into start records with legacy placeholder names.
 - Automatic `enabled` is **true on every file load** and not saved. Manual start/stop commands run regardless of enabled flag.
 - Learning needs a spellbook name and icon; unidentified macro icons may leave learning armed.
-- No LICENSE file exists. Do not add a license or imply permissions without the creative's explicit choice.
+- The creative explicitly selected MIT for the original software on 13 November 2026; see `LICENSE`. Do not assume any rights to external game assets.
 
 ## Record each material change
 
