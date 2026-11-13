@@ -38,3 +38,7 @@ The initial learning format saved icon booleans per class. Aug 31 changed the sc
 8. Which Vanilla/custom builds and localized clients are officially supported based on real test evidence?
 
 The documentation pass did not implement or approve any of these alternatives.
+
+## 2026-11-13 — Licensing decision
+
+To make the reuse terms explicit, I approved MIT for original addon software. This applies only to material for which the relevant rights can be granted; third-party contributors keep their own credits and licenses. AI assistance committed the license notice and updated project-facing documentation. This was a legal/documentation change, not a runtime feature or test.
