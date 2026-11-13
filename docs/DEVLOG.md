@@ -68,3 +68,7 @@ In this current session, an AI documentation collaborator inspected the full 435
 ## What belongs in the next journal entry
 
 The next development milestone is not more speculative prose. It is careful **in-game verification** of the attack-state modes and learned actions: a living hostile target at low resources, the presence/absence of an Attack button, localized macros, shared icon artwork, persistent learned records, and coexistence with other hooked addons. When Babuni.dev tests these, record what happened—including failures, alternatives considered and explicit decisions made—and update the portfolio record to match.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved MIT for original addon code. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
