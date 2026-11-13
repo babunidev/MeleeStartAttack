@@ -37,3 +37,8 @@
 ## What this does not prove
 
 Git establishes changed files, dates and visible code decisions. It does not prove earlier uncommitted prototypes, who wrote every line, a successful in-game run, a custom-client support matrix or acceptance of proposed repairs.
+
+## 2026-11-13 — License and rights
+
+- Established MIT for original addon software and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No gameplay or runtime verification is claimed.
